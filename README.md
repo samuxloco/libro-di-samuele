@@ -1,4 +1,6 @@
 # libro-di-samuele
-questo e il mio libro
+questo é il mio libro
 
 ciao
+
+sto modificando il file da google
